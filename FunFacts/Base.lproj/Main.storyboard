@@ -48,7 +48,7 @@
                                 <color key="tintColor" red="1" green="0.49019607843137253" blue="0.59607843137254901" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Button"/>
                                 <connections>
-                                    <action selector="factButtonTapped" destination="BYZ-38-t0r" eventType="touchUpInside" id="Quq-68-39Q"/>
+                                    <action selector="factButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="DAM-Yg-0B5"/>
                                 </connections>
                             </button>
                         </subviews>
